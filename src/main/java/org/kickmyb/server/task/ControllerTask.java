@@ -1,6 +1,6 @@
 package org.kickmyb.server.task;
 
-import org.kickmyb.server.model.MUser;
+import org.kickmyb.server.account.MUser;
 import org.kickmyb.transfer.AddTaskRequest;
 import org.kickmyb.transfer.HomeItemResponse;
 import org.kickmyb.transfer.TaskDetailResponse;

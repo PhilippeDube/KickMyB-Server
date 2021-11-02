@@ -1,10 +1,8 @@
 # KickMyB-Server
 Spring Boot Server for KickMyB
 
-## Problèmes
+Ce serveur contient l'API pour l'application Kick My B
 
-Changer de Jav change le format des dates:
-https://github.com/google/gson/issues/1210
-https://github.com/google/gson/issues/1719
+Il contient également les points d'accès pour la gestion d'images
 
-Il faut changer File > Project Structure > 1.8 au lieu de 11 et ça revient à l'ancien format qui marche avec Android
+Il contient également quelques points d'accès servant pour des exercices dans le cours.
